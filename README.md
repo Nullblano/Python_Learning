@@ -1,5 +1,5 @@
 # Python Learning
 
-Course One
+- Course One
 
-  [Assignments](https://github.com/Nullblano/Python_Learning/tree/master/Course%20One)
+  - [Assignments](https://github.com/Nullblano/Python_Learning/tree/master/Course%20One)
